@@ -1,11 +1,21 @@
 # CyperTeam NetOpt
 
 ### AI-Driven Optimization of Large-Scale IoT Networks
-
 ![Research](https://img.shields.io/badge/Research-AI%20Networking-blue)
 ![IoT](https://img.shields.io/badge/Domain-IoT%20Systems-green)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Project-brightgreen)
 ![Status](https://img.shields.io/badge/Project-Active-success)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Bare%20Metal-orange)
+![Edge Computing](https://img.shields.io/badge/Edge-Computing-purple)
+![Networking](https://img.shields.io/badge/Focus-Network%20Optimization-blueviolet)
+![Architecture](https://img.shields.io/badge/Architecture-Distributed%20Systems-yellow)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-red)
+![IoT Scale](https://img.shields.io/badge/Scale-Large%20IoT%20Networks-teal)
+![Testbeds](https://img.shields.io/badge/Testbeds-Experimental%20Networking-lightgrey)
+![Research Project](https://img.shields.io/badge/Type-Research%20Project-blue)
+![Research](https://img.shields.io/badge/Research-AI%20Networking-blue)
+![IoT](https://img.shields.io/badge/Domain-IoT%20Systems-green)
+
 
 ---
 
