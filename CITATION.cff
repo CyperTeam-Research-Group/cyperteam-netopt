@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this research project, please cite it using the metadata below."
+title: "CyperTeam NetOpt: AI-Driven Optimization of Large-Scale IoT Networks"
+version: 1.0.0
+date-released: 2026-01-01
+type: software
+
+authors:
+  - family-names: Ciobanu
+    given-names: Alina Stephanie
+    affiliation: CyperTeam Research Group
+    orcid: https://github.com/CyperTeam
+
+abstract: >
+  CyperTeam NetOpt is an open research initiative focused on developing
+  AI-driven optimization techniques for large-scale Internet of Things (IoT)
+  network infrastructures. The project explores adaptive networking strategies
+  using machine learning, telemetry analysis, and experimental networking
+  environments.
+
+keywords:
+  - artificial intelligence
+  - network optimization
+  - IoT networks
+  - distributed systems
+  - edge computing
+  - networking research
+
+license: Apache-2.0
+
+repository-code: https://github.com/CyperTeam-Research-Group/cyperteam-netopt
+
+url: https://github.com/CyperTeam-Research-Group/cyperteam-netopt
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Ciobanu
+      given-names: Alina Stephanie
+      affiliation: CyperTeam Research Group
+  title: "CyperTeam NetOpt: AI-Driven Optimization of Large-Scale IoT Networks"
+  version: 1.0.0
+  date-released: 2026-01-01
+  url: https://github.com/CyperTeam-Research-Group/cyperteam-netopt
